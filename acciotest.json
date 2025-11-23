@@ -1,0 +1,4 @@
+{
+  "testRepo": "even-and-multiple-of-five-solution",
+  "pathToFile": "cypress/integration/tests/test.spec.js"
+}
